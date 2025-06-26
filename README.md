@@ -1,9 +1,13 @@
-<div align="center">
 
-# 👋 Mahmoud
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3R3eTV6MHExdXZkbnZheTMxOXJtZHpjanZqdXVsdW1pdnBtbmpsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Mahmoud animated welcome" />
+
+
+
+
+# 👋 Hi, ich bin Mahmoud Anter
 
 **Anwendungsentwickler (in Ausbildung) | Selbstständig | Gastro-Konsultant**  
-**Sprachen:** Deutsch | Englisch | Arabisch | Kurdisch-Kurmanji | Kurdisch-Sorani | Türkisch  
+**Sprachen:** Deutsch 🇩🇪 | Englisch 🇬🇧 | Arabisch 🇸🇾 | Kurdisch-Kurmanji | Kurdisch-Sorani | Türkisch 🇹🇷  
 
 <br>
 
@@ -42,8 +46,14 @@ class MahmoudAnter:
         self.name = "Mahmoud Anter"
         self.profession = "Fachinformatiker für Anwendungsentwicklung (in Ausbildung)"
         self.skills = ["Python", "SQL", "HTML", "CSS", "Git", "VSCode"]
-        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte"]
-       
+        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte", "Marktstand-Organisation"]
+        self.languages = {
+            "Deutsch": "C1",
+            "Englisch": "C1",
+            "Arabisch": "C1",
+            "Kurdisch-Kurmanji": "C1",
+            "Kurdisch-Sorani": "B2",
+            "Türkisch": "B2"
         }
 
     def what_am_i_doing(self):
