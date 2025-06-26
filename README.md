@@ -6,7 +6,7 @@
 
 <img src="https://media1.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" style="border-radius: 50%;" alt="Mahmoud animated welcome" />
 
-# 👋 Hi, ich bin Mahmoud Anter
+# 👋 Hi
 ...
 
 
