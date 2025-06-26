@@ -33,7 +33,7 @@
 
 ### 🌐 Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
@@ -51,14 +51,8 @@ class MahmoudAnter:
         self.name = "Mahmoud Anter"
         self.profession = "Fachinformatiker für Anwendungsentwicklung (in Ausbildung)"
         self.skills = ["Python", "SQL", "HTML", "CSS", "Git", "VSCode"]
-        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte", "Marktstand-Organisation"]
-        self.languages = {
-            "Deutsch": "C1",
-            "Englisch": "C1",
-            "Arabisch": "C1",
-            "Kurdisch-Kurmanji": "C1",
-            "Kurdisch-Sorani": "B2",
-            "Türkisch": "B2"
+        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte"]
+
         }
 
     def what_am_i_doing(self):
