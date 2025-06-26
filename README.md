@@ -1,23 +1,38 @@
 <div align="center">
 
-# 👋 Hi, ich bin Mahmoud Anter
+# 👋 Mahmoud
 
 **Anwendungsentwickler (in Ausbildung) | Selbstständig | Gastro-Konsultant**  
-**Sprachen: 🇩🇪 🇬🇧 🇸🇾 🇰🇷 🇹🇷**
+**Sprachen:** Deutsch | Englisch | Arabisch | Kurdisch-Kurmanji | Kurdisch-Sorani | Türkisch  
+
+<br>
+
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/mahmoud.gif" width="300" alt="Mahmoud Coding"/>
 
 </div>
 
 ---
 
-![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20nutze-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
+## 🚀 Tech Stack
+
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🌐 Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
 
 ```python
 # 🧠 Über Mich
@@ -27,14 +42,8 @@ class MahmoudAnter:
         self.name = "Mahmoud Anter"
         self.profession = "Fachinformatiker für Anwendungsentwicklung (in Ausbildung)"
         self.skills = ["Python", "SQL", "HTML", "CSS", "Git", "VSCode"]
-        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte", "Marktstand-Organisation"]
-        self.languages = {
-            "Deutsch": "C1",
-            "Englisch": "C1",
-            "Arabisch": "C1",
-            "Kurdisch-Kurmanji": "C1",
-            "Kurdisch-Sorani": "B1",
-            "Türkisch": "B1"
+        self.experience = ["Selbstständiger Gastro-Konsultant", "IT-Projekte"]
+       
         }
 
     def what_am_i_doing(self):
